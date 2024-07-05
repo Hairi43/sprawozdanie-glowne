@@ -11,5 +11,10 @@ Dane zbierane przez domokrążców tj. zużycue prądu, data odczytu, adres klie
 
 Model koncepcyjny głównej bazy danych:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. image:: main_database.png
+
+Model koncepcyjny tymczasowej bazy danych:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. image:: local_database.png
 
 

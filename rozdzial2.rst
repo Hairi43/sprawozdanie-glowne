@@ -25,3 +25,14 @@ Baza posiada następujące funkcje, które później zostaną szczegółowo opis
 
 Uruchomienie odpowiednich funkcji odbywa się przez konsolę administratora znajdującą się w skrypcie o nazwie aplikacja_administratora.py
 
+Opis funckcji
+~~~~~~~~~~~~~
+Funkcje są opisane kolejno jak występują w menu programu.
+
+1. Wyślij zapisane dane do serwera
+
+  * Funkcja importuje dane zgromadzone przez domokrążcę. Do poprawnego działania potrzebny jest plik w formacie csv, który będzie odczytany i dane z niego zostaną dodane do odczytów danego licznika. Plik wykonujący opisaną funkcję nazywa się "wyslij.py".
+
+2. Wygeneruj raport o statystykach domokrążców
+
+  * Tworzy zapytanie o domokrążców oraz całkowitą liczbę dodanych przez nich wpisów. Następnie na ich podstawie tworzy wykres słupkowy posortowany od domokrążcy z największą ilością wpisów. Plik wykonujący opisaną funkcję nazywa się "raport_o_domokrazcach.py".

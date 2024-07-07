@@ -1,14 +1,14 @@
 Opis funkcji pobierających informacje z bazy danych
----------------------------------------------
+---------------------------------------------------
 
-Wstęp
-~~~~~~
+Analiza danych
+~~~~~~~~~~~~~~
 Poniżej opisane funkcje są dostępne dla użytkowników z uprawnieniami administratora. Można z nich skorzystać po uruchomieniu pliku aplikacja_administratora.py oraz wybraniu odpowiednich opcji.
 
 Pobieranie użytkowników z bazy danych
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 W celu sprawdzenia danych o konkretnej osobie możemy po uruchomieniu pliku aplikacja_administratora.py użyć opcji 3. podpisanej jako wyszukiwanie danych o wybranej osobie. 
-Po wpisaniu imienia i nazwiska zapytanie SQL wyszukuje wszystkie informacje zapisane poniżej o konkretnej osobie i wypisuje je na ekranie. 
+Po wpisaniu imienia, nazwiska oraz peselu zapytanie SQL wyszukuje wszystkie informacje zapisane poniżej o konkretnej osobie i wypisuje je na ekranie. 
 
 Zapytanie łączy kilka tabel:
 klienci: zawiera podstawowe informacje o kliencie (imię, nazwisko, PESEL).
@@ -19,7 +19,7 @@ historia_licznika: zawiera informacje o historii liczników (data założenia, d
 odczyty_licznika: zawiera odczyty liczników (zużycie, data odczytu).
 
 Raport o domokrążcach
-~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
 Poniżej przedstawione jest działanie trzech funkcji odpowiedzialnych za pobieranie, przetwarzanie danych dotyczących domokrążców oraz generowanie raportu graficznego ich wydajności.
 
 Pierwsza z nich:

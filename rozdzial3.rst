@@ -28,6 +28,7 @@ Aby wygenerować wykres trzeba użyć opcji 2 w menu admnistratora.
 Poniżej przedstawione jest działanie trzech funkcji odpowiedzialnych za pobieranie, przetwarzanie danych dotyczących domokrążców oraz generowanie raportu graficznego ich wydajności.
 
 Pierwsza z nich:
+
 1. Pobiera imię i nazwisko domokrążcy.
 2. Liczy liczbę wpisów dokonanych przez każdego domokrążcę (count(odczyty_licznika.id_domokrazcy)).
 3. Grupuje wyniki według imienia i nazwiska.

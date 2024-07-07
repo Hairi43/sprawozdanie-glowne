@@ -12,7 +12,7 @@ Baza jest w trzeciej postaci normalnej, ponieważ atrybuty są zależnie funkcyj
 
 Funkcje bazy danych
 ~~~~~~~~~~~~~~~~~~~
-Na wstępie pragniemy zaznaczyć, że kod pierwotnie był pisany na potrzeby uruchamiania odpowiednich skryptów jako oddzielnych modułów aplikacji. Dlatego też tylko jedna funkcja (chodzi dokłądniej o funkcję "wykonaj_kod()" znajdującą się w każdym module) służy do obsługi jednego skryptu. 
+Na wstępie pragniemy zaznaczyć, że kod pierwotnie był pisany na potrzeby uruchamiania odpowiednich skryptów jako oddzielnych modułów aplikacji. Dlatego też tylko jedna funkcja (chodzi dokładniej o funkcję "wykonaj_kod()" znajdującą się w każdym module) służy do obsługi jednego skryptu. 
 Baza posiada następujące funkcje, które później zostaną szczegółowo opisane:
 
 * Budowanie struktury bazy danych

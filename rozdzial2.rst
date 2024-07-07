@@ -17,7 +17,7 @@ Baza posiada następujące funkcje, które później zostaną szczegółowo opis
 
 * Budowanie struktury bazy danych
 * Dodawanie klientów wraz z adresami
-* Czyszczenie wszystkich tabel (Trzeba od nowa zbudować strukturę bazy danych)
+* Czyszczenie wszystkich tabel
 * Importowanie danych do bazy z pliku csv
 * Wysłanie danych testowych
 * Raportowanie o wydajności domokrążców

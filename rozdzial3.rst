@@ -18,8 +18,13 @@ liczniki: zawiera informacje o licznikach przypisanych do klienta.
 historia_licznika: zawiera informacje o historii liczników (data założenia, data usunięcia).
 odczyty_licznika: zawiera odczyty liczników (zużycie, data odczytu).
 
+Plik wykonujący opisaną funkcję nazywa się "wyszukiwanie_w_bazie.py".
+
 Raport o domokrążcach
 ~~~~~~~~~~~~~~~~~~~~~
+Generuje raport w postaci wykresu o ilości sprawdzonych liczników przez każdego z domokrążców.  
+
+
 Poniżej przedstawione jest działanie trzech funkcji odpowiedzialnych za pobieranie, przetwarzanie danych dotyczących domokrążców oraz generowanie raportu graficznego ich wydajności.
 
 Pierwsza z nich:

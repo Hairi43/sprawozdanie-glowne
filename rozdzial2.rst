@@ -44,3 +44,7 @@ Funkcje są opisane kolejno jak występują w menu programu.
 4. Usuń wszystkie tabele
 
   * Usuwa wszystkie tabele w bazie. Trzeba jeszcze raz utworzyć szkielet bazy, żeby można było móc na niej operować. Plik wykonujący opisaną funkcję nazywa się "usun_tabele.py".
+
+5. Wyślij testowe dane do bazy
+
+  * Wysyła testowe dane do bazy w celu zapełnienia jej do wykonania testów. Plik wykonujący opisaną funkcję nazywa się "wyslij_testowe.py".

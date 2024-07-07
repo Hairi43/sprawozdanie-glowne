@@ -6,8 +6,8 @@ Dawid Łapiński, Leon Woźniak
 
 Założenia bazy danych
 ~~~~~~~~~~~~~~~~~~~~~
-Baza danych miała powstać dla spółki energetycznej zajmującej się dystrybucją energii w woj. Dolnośląskim. Baza danych miała obejmować zarejestrowanych klientów, odczyty zużycia prądu przez klientów, adresy pod którymi mają zainstalowane liczniki, historię miejsc, w których znajdował się dany licznik oraz listę domokrążców, którzy by te liczniki sprawdzali. Zarejestrowani użytkownicy mieliby historię odczytów ze swojego licznika, żeby była możliwość tworzenia prognóz ile będą płacić za energię w następnych miesiąch. Dane z bazy nie byłyby usuwane, ponieważ firma prowadziłaby statystyki tj. ilość zainstalowanych liczników w danym okresie, ilość sprawdzonych liczników przez domokrążcę w danym okresie.
-Dane zbierane przez domokrążców tj. zużycue prądu, data odczytu, adres klienta byłyby zapisywane w tymczasowej bazie danych, a potem zrzucane i importowane do głównej bazy danych. Przedstawiony zostanie tylko model fizyczny, ponieważ zawiera on wszystkie potrzebne informacje.
+Baza danych miała powstać dla spółki energetycznej zajmującej się dystrybucją energii w woj. Dolnośląskim. Baza danych miała obejmować zarejestrowanych klientów, odczyty zużycia prądu przez klientów, adresy pod którymi mają zainstalowane liczniki, historię miejsc, w których znajdował się dany licznik oraz listę domokrążców, którzy by te liczniki sprawdzali. Zarejestrowani użytkownicy mieliby historię odczytów ze swojego licznika, żeby była możliwość tworzenia prognóz ile będą płacić za energię w następnych miesiącach. Dane z bazy nie byłyby usuwane, ponieważ firma prowadziłaby statystyki tj. ilość zainstalowanych liczników w danym okresie, ilość sprawdzonych liczników przez domokrążcę w danym okresie.
+Dane zbierane przez domokrążców tj. zużycie prądu, data odczytu, adres klienta byłyby zapisywane w tymczasowej bazie danych, a potem zrzucane i importowane do głównej bazy danych. Przedstawiony zostanie tylko model fizyczny, ponieważ zawiera on wszystkie potrzebne informacje.
 
 Model fizyczny tymczasowej bazy danych
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

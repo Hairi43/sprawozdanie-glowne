@@ -25,7 +25,7 @@ Baza posiada następujące funkcje, które później zostaną szczegółowo opis
 
 Uruchomienie odpowiednich funkcji odbywa się przez konsolę administratora znajdującą się w skrypcie o nazwie aplikacja_administratora.py
 
-Opis funckcji
+Opis funkcji
 ~~~~~~~~~~~~~
 Funkcje są opisane kolejno jak występują w menu programu.
 

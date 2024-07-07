@@ -47,4 +47,8 @@ Funkcje są opisane kolejno jak występują w menu programu.
 
 5. Wyślij testowe dane do bazy
 
-  * Wysyła testowe dane do bazy w celu zapełnienia jej do wykonania testów. Plik wykonujący opisaną funkcję nazywa się "wyslij_testowe.py".
+  * Wysyła testowe dane do bazy w celu zapełnienia jej do wykonania testów. Funkcja sama tworzy szkielet bazy danych. Plik wykonujący opisaną funkcję nazywa się "wyslij_testowe.py".
+
+6. Stwórz szkielet bazy
+
+  * Tworzy puste tabele, które można wypełnić za pomocą użycia skryptu wysłania testowych danych albo wprowadzenia ich samemu za pomocą skryptu dodaj_klienta.py

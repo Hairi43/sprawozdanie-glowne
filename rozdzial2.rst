@@ -36,3 +36,11 @@ Funkcje są opisane kolejno jak występują w menu programu.
 2. Wygeneruj raport o statystykach domokrążców
 
   * Tworzy zapytanie o domokrążców oraz całkowitą liczbę dodanych przez nich wpisów. Następnie na ich podstawie tworzy wykres słupkowy posortowany od domokrążcy z największą ilością wpisów. Plik wykonujący opisaną funkcję nazywa się "raport_o_domokrazcach.py".
+
+3. Wyszukaj dane o osobie
+
+  * Funkcja poprosi o wpisanie imienia, nazwiska oraz peselu i na podstawie tych danych zwróci wszystkie informacje o wybranej osobie. Plik wykonujący opisaną funkcję nazywa się "wyszukiwanie_w_bazie.py".
+
+4. Usuń wszystkie tabele
+
+  * Usuwa wszystkie tabele w bazie. Trzeba jeszcze raz utworzyć szkielet bazy, żeby można było móc na niej operować. Plik wykonujący opisaną funkcję nazywa się "usun_tabele.py".

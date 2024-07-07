@@ -1,8 +1,8 @@
 Opis funkcji pobierających informacje z bazy danych
 ---------------------------------------------------
 
-Analiza danych
-~~~~~~~~~~~~~~
+Wstęp
+~~~~~
 Poniżej opisane funkcje są dostępne dla użytkowników z uprawnieniami administratora. Można z nich skorzystać po uruchomieniu pliku aplikacja_administratora.py oraz wybraniu odpowiednich opcji.
 
 Pobieranie użytkowników z bazy danych
@@ -22,8 +22,8 @@ Plik wykonujący opisaną funkcję nazywa się "wyszukiwanie_w_bazie.py".
 
 Raport o domokrążcach
 ~~~~~~~~~~~~~~~~~~~~~
-Generuje raport w postaci wykresu o ilości sprawdzonych liczników przez każdego z domokrążców.  
-
+Generuje raport w postaci wykresu o ilości sprawdzonych liczników przez każdego z domokrążców.
+Aby wygenerować wykres trzeba użyć opcji 2 w menu admnistratora.
 
 Poniżej przedstawione jest działanie trzech funkcji odpowiedzialnych za pobieranie, przetwarzanie danych dotyczących domokrążców oraz generowanie raportu graficznego ich wydajności.
 

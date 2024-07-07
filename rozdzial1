@@ -13,4 +13,4 @@ Model koncepcyjny tymczasowej bazy danych:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. image:: local_database.png
 
-Tymczasowa baza danych dla pracownika zakłada, że będzie on wpisywał dane, które nie są danymi poufnymi tj. pesel, tylko na podstawie adresu, pod którym znajduje się licznik. Baza daje możliwość wprowadzenia numeru identyfikacyjnego domokrążcy, żeby określić jaki domokrążca sprawdził dany licznik. Jest to potrzebne przy uwzględnianiu ewentualnej premii. Kolejne dane to data odczytu, zużycie jakie pokazuje licznik oraz adres.
+Tymczasowa baza danych dla pracownika zakłada, że będzie on wpisywał dane, które nie są danymi poufnymi tj. pesel, tylko na podstawie adresu, pod którym znajduje się licznik. Baza daje możliwość wprowadzenia numeru identyfikacyjnego domokrążcy, żeby określić jaki domokrążca sprawdził dany licznik. Jest to potrzebne przy uwzględnianiu ewentualnej premii. Kolejne dane to data odczytu, zużycie jakie pokazuje licznik oraz adres. Baza dodaje każdy wpis jako unikalny w całej bazie.

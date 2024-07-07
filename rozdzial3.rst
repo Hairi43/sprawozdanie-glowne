@@ -18,7 +18,7 @@ liczniki: zawiera informacje o licznikach przypisanych do klienta.
 historia_licznika: zawiera informacje o historii liczników (data założenia, data usunięcia).
 odczyty_licznika: zawiera odczyty liczników (zużycie, data odczytu).
 
-raport o domokrążcach
+Raport o domokrążcach
 ~~~~~~~~~~~~~~~~~~~~~~
 Poniżej przedstawione jest działanie trzech funkcji odpowiedzialnych za pobieranie, przetwarzanie danych dotyczących domokrążców oraz generowanie raportu graficznego ich wydajności.
 

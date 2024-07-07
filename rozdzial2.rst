@@ -56,3 +56,7 @@ Funkcje są opisane kolejno jak występują w menu programu.
 7. Dodaj klienta
 
   * Jeśli klienta nie ma w bazie dodaje go do bazy, a potem wprowadzane są dane dotyczące nowego adresu, pod którym ma być zamontowany licznik. Jeśli klient jest w bazie to dodaje tylko nowy adres do jego konta. Tabela liczniki jest automatycznie uzupełniana w chwili kiedy zostaje dodany adres nowej nieruchomości. Plik wykonujący opisaną funkcję nazywa się "dodaj_klienta.py".
+
+8. Zakończ program
+
+  * Kończy program.

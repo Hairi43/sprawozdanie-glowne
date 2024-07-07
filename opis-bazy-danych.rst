@@ -13,6 +13,8 @@ Model koncepcyjny głównej bazy danych:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. image:: main_database.png
 
+Główna baza danych przechowuje dane o klientach, adresach do nich przypisanych, licznika, który jest przypisany do każdego adresu, odczyty zuzycia prądu przez gospodarstwo pod danym adresem, domokrążców, którzy odczytali dany licznik oraz historię gdzie dany licznik był zamontowany. 
+
 Model koncepcyjny tymczasowej bazy danych:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. image:: local_database.png
